@@ -1,0 +1,4 @@
+﻿  Source.cpp
+F:\Навчання\Лаб. з АП\Лабораторні 6.1-6.3(6.4)\Lab_6.1 --- r\lab_6.1---r\lab_6.1---r\Source.cpp(49,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+F:\Навчання\Лаб. з АП\Лабораторні 6.1-6.3(6.4)\Lab_6.1 --- r\lab_6.1---r\lab_6.1---r\Source.cpp(50,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  lab_6.1---r.vcxproj -> F:\Навчання\Лаб. з АП\Лабораторні 6.1-6.3(6.4)\Lab_6.1 --- r\lab_6.1---r\Debug\lab_6.1---r.exe
